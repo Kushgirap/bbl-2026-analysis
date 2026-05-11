@@ -1,0 +1,240 @@
+Innings,over ,ball,striker,non striker,bowler,type of bowler,Bowling end,Runs batter,Extras,Wide,No ball,Leg bye,Bye,Wicket,Dismissal Type,caught at,fielder,Line ,Length,Shot played,Intended direction,actual direction,Reason for mismatch,Middled,Edged,Beaten,Ball speed (Kmph)
+1,0,1,Matthew Gilkes,David Warner,Sean Abbott,Right Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Off,Good Length,Square drive,Point,Keeper,Wide,No,No,No,
+1,0,1,Matthew Gilkes,David Warner,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Square drive,Point,Keeper,Beaten,No,No,Yes,135.4
+1,0,2,Matthew Gilkes,David Warner,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Forward Defence,Point,Point,,Yes,No,No,131
+1,0,3,Matthew Gilkes,David Warner,Sean Abbott,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Back Foot Defence,Deep Third Man,Deep Third Man,,Yes,No,No,129.8
+1,0,4,David Warner,Matthew Gilkes,Sean Abbott,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Middle,Good Length,Back Foot Defence,Bowler,Deep Third Man,Outside Edge,No,Yes,No,
+1,0,5,Matthew Gilkes,David Warner,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Leg,Good Length,Back Foot Defence,Short Mid Wicket,Short Mid Wicket,,Yes,No,No,
+1,0,6,Matthew Gilkes,David Warner,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Off,Good Length,Back Foot Defence,Bowler,Keeper,Beaten,No,No,Yes,
+1,1,1,David Warner,Matthew Gilkes,Mitchell Starc,Left Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Square drive,Forward Point,Forward Point,,Yes,No,No,134.8
+1,1,2,David Warner,Matthew Gilkes,Mitchell Starc,Left Fast,Over,0,0,No,No,No,No,No,,,,Outside Leg,Good Length,Back Foot Defence,Short Mid Wicket,Short Mid Wicket,,Yes,No,No,142.8
+1,1,3,David Warner,Matthew Gilkes,Mitchell Starc,Left Fast,Over,6,0,No,No,No,No,No,,,,Outside Off,Bouncer,Upper cut,Deep Backward Point,Deep Backward Point,,Yes,No,No,144
+1,1,4,David Warner,Matthew Gilkes,Mitchell Starc,Left Fast,Over,1,0,No,No,No,No,No,,,,Off,Good Length,Back Foot Defence,Bowler,Deep Third Man,Outside Edge,No,Yes,No,142.5
+1,1,5,Matthew Gilkes,David Warner,Mitchell Starc,Left Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,Full,Lofted Drive,Long Off,Long Off,,Yes,No,No,143.1
+1,1,6,Matthew Gilkes,David Warner,Mitchell Starc,Left Fast,Over,4,0,No,No,No,No,No,,,,Off,Good Length,Lofted Flick,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,128.7
+1,2,1,David Warner,Matthew Gilkes,Sean Abbott,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Leg,Good Length,Leg Glance,Deep Square Leg,Deep Square Leg,,Yes,No,No,134.2
+1,2,2,David Warner,Matthew Gilkes,Sean Abbott,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Leg,Full,Leg Glance,Deep Square Leg,Deep Square Leg,,Yes,No,No,134.3
+1,2,3,David Warner,Matthew Gilkes,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Leg,Good Length,Back Foot Defence,Short Cover,Short Cover,,Yes,No,No,127.1
+1,2,4,David Warner,Matthew Gilkes,Sean Abbott,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Middle,Good Length,Slog,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,139.9
+1,2,5,David Warner,Matthew Gilkes,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Leg,Good Length,Back Foot Defence,Bowler,Bowler,,Yes,No,No,137.4
+1,2,6,David Warner,Matthew Gilkes,Sean Abbott,Right Medium Fast,Over,0,1,No,No,Yes,No,No,,,,Outside Leg,Good Length,Leg Glance,Deep Fine Leg,Fine Leg,Mistimed,No,No,Yes,135.7
+1,3,1,David Warner,Matthew Gilkes,Jack Edwards,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,FT,Forward Defence,Cover,Cover,,Yes,No,No,
+1,3,2,David Warner,Matthew Gilkes,Jack Edwards,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Leg,Good Length,Slog Sweep,Deep Fine Leg,Deep Fine Leg,,Yes,No,No,103.2
+1,3,3,David Warner,Matthew Gilkes,Jack Edwards,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,Short of length,Square Cut,Backward Point,Fine Third Man,Outside Edge,No,Yes,No,130.7
+1,3,4,David Warner,Matthew Gilkes,Jack Edwards,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Outside Off,Short of length,Pull Shot,Deep Mid Wicket,Long Off,Mistimed,No,No,No,130.4
+1,3,5,David Warner,Matthew Gilkes,Jack Edwards,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Off,Short of length,Upper cut,Fine Third Man,Fine Third Man,,Yes,No,No,131.4
+1,3,6,David Warner,Matthew Gilkes,Jack Edwards,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,Full,Lofted Drive,Straight Hit,Straight Hit,,Yes,No,No,134.8
+1,4,1,Matthew Gilkes,David Warner,Ben Manenti,Right Off,Round,1,0,No,No,No,No,No,,,,Leg,Full,Flick,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,91.4
+1,4,2,David Warner,Matthew Gilkes,Ben Manenti,Right Off,Round,1,0,No,No,No,No,No,,,,Middle,Good Length,Square Cut,Deep Backward Point,Sweeper Cover,Mistimed,No,No,No,97.6
+1,4,3,Matthew Gilkes,David Warner,Ben Manenti,Right Off,Round,0,0,No,No,No,No,No,,,,Leg,Good Length,Leg Glance,Deep Square Leg,Silly Point,Beaten,No,No,Yes,104.2
+1,4,4,Matthew Gilkes,David Warner,Ben Manenti,Right Off,Round,1,0,No,No,No,No,No,,,,Leg,Full,Forward Defence,Forward Square Leg,Short Mid Wicket,Mistimed,No,No,No,
+1,4,5,David Warner,Matthew Gilkes,Ben Manenti,Right Off,Round,0,0,No,No,No,No,No,,,,Middle,Full,Slog,Deep Mid Wicket,Fine Leg,Inside Edge,No,Yes,No,
+1,4,6,David Warner,Matthew Gilkes,Ben Manenti,Right Off,Round,2,0,No,No,No,No,No,,,,Off,Good Length,Square Cut,Sweeper Cover,Sweeper Cover,,Yes,No,No,
+1,5,1,Matthew Gilkes,David Warner,Mitchell Starc,Left Fast,Over,1,0,No,No,No,No,No,,,,Outside Leg,Short of length,Pull Shot,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,122.6
+1,5,2,David Warner,Matthew Gilkes,Mitchell Starc,Left Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Full,Forward Defence,Deep Point,Deep Point,,Yes,No,No,
+1,5,3,Matthew Gilkes,David Warner,Mitchell Starc,Left Fast,Over,0,0,No,No,No,No,Yes,Caught,Mid Off,Moises Henriques,Outside Off,Good Length,Lofted Drive,Deep Cover,Mid Off,Mistimed,No,No,No,139.6
+1,5,4,Sam Konstas,David Warner,Mitchell Starc,Left Fast,Over,1,0,No,No,No,No,No,,,,Off,Good Length,On Drive,Long On,Long On,,Yes,No,No,145.2
+1,5,5,David Warner,Sam Konstas,Mitchell Starc,Left Fast,Over,1,0,No,No,No,No,No,,,,Outside Leg,Yorker,Flick,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,
+1,5,6,Sam Konstas,David Warner,Mitchell Starc,Left Fast,Over,1,0,No,No,No,No,No,,,,Outside Leg,Good Length,Flick,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,145
+1,6,1,Sam Konstas,David Warner,Joel Davis,Left Off,Round,1,0,No,No,No,No,No,,,,Outside Off,Short of length,Pull Shot,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,100.4
+1,6,2,David Warner,Sam Konstas,Joel Davis,Left Off,Over,2,0,No,No,No,No,No,,,,Off,Short of length,Pull Shot,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,100.8
+1,6,3,David Warner,Sam Konstas,Joel Davis,Left Off,Over,4,0,No,No,No,No,No,,,,Outside Off,Good Length,Square Cut,Deep Forward Point,Deep Forward Point,,Yes,No,No,88.8
+1,6,4,David Warner,Sam Konstas,Joel Davis,Left Off,Over,1,0,No,No,No,No,No,,,,Outside Leg,Good Length,Leg Glance,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,
+1,6,5,Sam Konstas,David Warner,Joel Davis,Left Off,Round,0,0,No,No,No,No,No,,,,Off,Good Length,Back Foot Defence,Cover,Cover,,Yes,No,No,
+1,6,6,Sam Konstas,David Warner,Joel Davis,Left Off,Round,1,0,No,No,No,No,No,,,,Leg,Good Length,Leg Glance,Backward Square Leg,Backward Square Leg,,Yes,No,No,
+1,7,1,Sam Konstas,David Warner,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,No,,,,Off,Short of length,Back Foot Defence,Cover,Cover,,Yes,No,No,126.3
+1,7,2,Sam Konstas,David Warner,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Leg,Good Length,Off Drive,Mid Off,Mid Off,,Yes,No,No,123.8
+1,7,3,David Warner,Sam Konstas,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,No,,,,Middle,Short of length,Back Foot Defence,Bowler,Bowler,,Yes,No,No,124.4
+1,7,4,David Warner,Sam Konstas,Sam Curran,Left Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Leg,Short of length,Pull Shot,Square Leg,Keeper,Wide,No,No,No,128.3
+1,7,4,David Warner,Sam Konstas,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Late Cut,Deep Backward Point,Deep Backward Point,,Yes,No,No,103.4
+1,7,5,Sam Konstas,David Warner,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,No,,,,Middle,Short of length,Forward Defence,Short Mid Wicket,Short Mid Wicket,,Yes,No,No,126.7
+1,7,6,Sam Konstas,David Warner,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Off,Short of length,Off Drive,Short Mid off,Short Mid off,,Yes,No,No,129.5
+1,8,1,Sam Konstas,David Warner,Jack Edwards,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Slog,Deep Mid Wicket,Keeper,Beaten,No,No,Yes, 
+1,8,2,Sam Konstas,David Warner,Jack Edwards,Right Medium Fast,Over,0,0,No,No,No,No,Yes,Caught,Keeper,Josh Phillipe,Middle,Good Length,Slog,Deep Square Leg,Backward Point,Outside Edge,No,Yes,No,113.9
+1,8,3,Sam Billings,David Warner,Jack Edwards,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Off,Good Length,Forward Defence,Bowler,Deep Third Man,Outside Edge,No,Yes,No,
+1,8,4,David Warner,Sam Billings,Jack Edwards,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Leg,Full,Forward Defence,Short Mid Wicket,Short Mid Wicket,,Yes,No,No,
+1,8,5,Sam Billings,David Warner,Jack Edwards,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Leg,Good Length,Flick,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,133.9
+1,8,6,Sam Billings,David Warner,Jack Edwards,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Middle,Full,Flick,Mid Wicket,Bowler,Outside Edge,No,Yes,No,
+1,9,1,David Warner,Sam Billings,Mitchell Starc,Left Fast,Over,1,0,No,No,No,No,No,,,,Off,Full,Off Drive,Short Mid On,Short Mid On,,Yes,No,No,143.5
+1,9,2,Sam Billings,David Warner,Mitchell Starc,Left Fast,Over,2,0,No,No,No,No,No,,,,Outside Leg,Short of length,Leg Glance,Fine Leg,Deep Fine Leg,,No,Yes,No,140.1
+1,9,3,Sam Billings,David Warner,Mitchell Starc,Left Fast,Over,0,0,No,No,No,No,No,,,,Leg,Bouncer,Back Foot Defence,Short Mid Wicket,Keeper,Inside Edge,No,Yes,No,131.4
+1,9,4,Sam Billings,David Warner,Mitchell Starc,Left Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Leg,Bouncer,Leave,Keeper,Keeper,,No,No,No,131.9
+1,9,4,Sam Billings,David Warner,Mitchell Starc,Left Fast,Round,1,0,No,No,No,No,No,,,,Middle,Short of length,Ramp,Long Stop,Deep Fine Leg,Mistimed,Yes,No,No,
+1,9,5,David Warner,Sam Billings,Mitchell Starc,Left Fast,Over,2,0,No,No,No,No,No,,,,Outside Off,Yorker,Square drive,Backward Point,Backward Point,,Yes,No,No,141.2
+1,9,6,David Warner,Sam Billings,Mitchell Starc,Left Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Square Cut,Backward Point,Backward Point,,Yes,No,No,
+1,10,1,Sam Billings,David Warner,Sam Curran,Left Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,Good Length,Cover Drive,Deep Cover,Deep Cover,,Yes,No,No,126.4
+1,10,2,Sam Billings,David Warner,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Leg,Short of length,Leg Glance,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,126.3
+1,10,3,David Warner,Sam Billings,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Short of length,Pull Shot,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,128
+1,10,4,Sam Billings,David Warner,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Off,Short of length,Pull Shot,Square Leg,Slips,Inside Edge,No,Yes,No,124.8
+1,10,5,David Warner,Sam Billings,Sam Curran,Left Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Leg,Bouncer,Hook,Deep Fine Leg,Keeper,Wide,No,No,No,128.7
+1,10,5,David Warner,Sam Billings,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Middle,Full,Flick,Mid Wicket,Mid Wicket,,Yes,No,No,
+1,10,6,Sam Billings,David Warner,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Leg,Full,Flick,Square Leg,Fine Leg,Mistimed,Yes,No,No,
+1,11,1,Sam Billings,David Warner,Ben Manenti,Right Off,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Reverse Sweep,Backward Point,Short Leg,Beaten,No,No,Yes,94.5
+1,11,2,Sam Billings,David Warner,Ben Manenti,Right Off,Over,1,0,No,No,No,No,No,,,,Middle,Short of length,Back Foot Defence,Mid On,Mid On,,Yes,No,No,102
+1,11,3,David Warner,Sam Billings,Ben Manenti,Right Off,Round,1,0,No,No,No,No,No,,,,Middle,Good Length,Back Foot Defence,Short Mid On,Short Mid On,,Yes,No,No,
+1,11,4,Sam Billings,David Warner,Ben Manenti,Right Off,Over,0,0,No,No,No,No,Yes,Caught,Long On,Steve Smith,Middle,Good Length,Step out ,Long On,Long On,,No,No,No,
+1,11,5,Nic Maddinson,David Warner,Ben Manenti,Right Off,Round,1,0,No,No,No,No,No,,,,Middle,Good Length,Back Foot Defence,Short Mid Wicket,Short Mid Wicket,,Yes,No,No,
+1,11,6,David Warner,Nic Maddinson,Ben Manenti,Right Off,Round,1,0,No,No,No,No,No,,,,Middle,Full,Cover Drive,Deep Cover,Deep Cover,,Yes,No,No,92.5
+1,12,1,David Warner,Nic Maddinson,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Leg,Good Length,Step out ,Deep Mid Wicket,Keeper,Beaten,No,No,Yes,
+1,12,2,David Warner,Nic Maddinson,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,No,,,,Leg,Short of length,Pull Shot,Backward Square Leg,Fine Leg,Mistimed,Yes,No,No,132
+1,12,3,David Warner,Nic Maddinson,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Middle,Full,Cover Drive,Deep Cover,Deep Cover,,Yes,No,No,108.3
+1,12,4,Nic Maddinson,David Warner,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,No,,,,Leg,Short of length,Leg Glance,Backward Square Leg,Square Leg,Mistimed,No,No,No,128.3
+1,12,5,Nic Maddinson,David Warner,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Leg,Full,Lofted Flick,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,127.8
+1,12,6,David Warner,Nic Maddinson,Sam Curran,Left Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Leg,Bouncer,Hook,Deep Backward Square Leg,Keeper,Wide,No,No,No,131
+1,12,6,David Warner,Nic Maddinson,Sam Curran,Left Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Full,Cover Drive,Deep Cover,Deep Cover,,Yes,No,No,
+1,13,1,David Warner,Nic Maddinson,Jack Edwards,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Outside Off,Good Length,Slog,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,
+1,13,2,David Warner,Nic Maddinson,Jack Edwards,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Middle,Short of length,Pull Shot,Deep Square Leg,Keeper,Beaten,No,No,Yes,
+1,13,3,David Warner,Nic Maddinson,Jack Edwards,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Outside Off,Full,Off Drive,Short Mid off,Short Mid off,,Yes,No,No,132.8
+1,13,4,David Warner,Nic Maddinson,Jack Edwards,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Leg,Good Length,Slog,Deep Mid Wicket,Deep Mid Wicket,,No,No,No,
+1,13,5,Nic Maddinson,David Warner,Jack Edwards,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Middle,Short of length,Pull Shot,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,133.7
+1,13,6,Nic Maddinson,David Warner,Jack Edwards,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,Short of length,Slog,Straight Hit,Straight Hit,,Yes,No,No,129.7
+1,14,1,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,0,1,No,Yes,No,No,No,,,,Outside Leg,Yorker,Slog,Mid Wicket,Keeper,Beaten,No,No,Yes,133.2
+1,14,1,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Outside Leg,Full,Lofted Drive,Sweeper Cover,Sweeper Cover,,Yes,No,No,138.1
+1,14,2,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Leg,Good Length,Ramp,Deep Fine Leg,Deep Fine Leg,,Yes,No,No,111
+1,14,3,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,4,1,No,Yes,No,No,No,,,,Middle,Beamer,Square Cut,Deep Backward Point,Deep Backward Point,,Yes,No,No,
+1,14,3,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Middle,FT,Lofted Drive,Deep Cover,Deep Cover,,Yes,No,No,133.6
+1,14,4,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Yorker,Square Cut,Deep Backward Point,Keeper,Beaten,No,No,Yes,
+1,14,5,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Leg,Full,Flick,Square Leg,Keeper,Wide,No,No,No,132.5
+1,14,5,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,FT,Cover Drive,Deep Cover,Deep Cover,,Yes,No,No,134.3
+1,14,6,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Leg,FT,Flick,Deep Square Leg,Short Leg,Beaten,No,No,Yes,132.4
+1,15,1,Nic Maddinson,David Warner,Ben Manenti,Right Off,Round,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Cover Drive,Long Off,Long Off,,Yes,No,No,91.6
+1,15,2,David Warner,Nic Maddinson,Ben Manenti,Right Off,Round,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Slog,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,
+1,15,3,Nic Maddinson,David Warner,Ben Manenti,Right Off,Round,0,0,No,No,No,No,No,,,,Outside Off,Full,Step out ,Deep Cover,Keeper,Beaten,No,No,Yes,
+1,15,4,Nic Maddinson,David Warner,Ben Manenti,Right Off,Round,4,0,No,No,No,No,No,,,,Off,Good Length,Slog,Straight Hit,Straight Hit,,Yes,No,No,
+1,15,5,Nic Maddinson,David Warner,Ben Manenti,Right Off,Round,2,0,No,No,No,No,No,,,,Off,FT,Slog,Long On,Long On,,Yes,No,No,
+1,15,6,Nic Maddinson,David Warner,Ben Manenti,Right Off,Round,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Lofted Drive,Deep Forward Point,Keeper,Beaten,No,No,Yes,93.3
+1,16,1,David Warner,Nic Maddinson,Mitchell Starc,Left Fast,Over,0,0,No,No,No,No ,No,,,,Outside Off,Good Length,Slog,Deep Cover,Keeper,Beaten,No,No,Yes,138.2
+1,16,2,David Warner,Nic Maddinson,Mitchell Starc,Left Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Cover Drive,Cover,Cover,,Yes,No,No,141.2
+1,16,3,David Warner,Nic Maddinson,Mitchell Starc,Left Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Off,Bouncer,Leave,Keeper,Keeper,Wide,No,No,No,127.5
+1,16,3,David Warner,Nic Maddinson,Mitchell Starc,Left Fast,Over,2,0,No,No,No,No,No,,,,Outside Leg,Full,Lofted Drive,Long On,Long On,,Yes,No,No,141.4
+1,16,4,David Warner,Nic Maddinson,Mitchell Starc,Left Fast,Round,0,0,No,No,No,No,No,,,,Outside Off,Short of length,Pull Shot,Deep Square Leg,Keeper,Beaten,No,No,Yes,126.3
+1,16,5,David Warner,Nic Maddinson,Mitchell Starc,Left Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,FT,Forward Defence,Mid Off,Mid Off,,Yes,No,No,145.3
+1,16,6,Nic Maddinson,David Warner,Mitchell Starc,Left Fast,Over,0,0,No,No,No,No,No,,,,Outside Leg,Yorker,Flick,Square Leg,Keeper,Beaten,No,No,Yes,142.4
+1,17,1,David Warner,Nic Maddinson,Jack Edwards,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Middle,Full,Lofted Flick,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,101.1
+1,17,2,David Warner,Nic Maddinson,Jack Edwards,Right Medium Fast,Round,2,0,No,No,No,No,No,,,,Middle,Full,On Drive,Mid On,Mid On,,Yes,No,No,131.2
+1,17,3,David Warner,Nic Maddinson,Jack Edwards,Right Medium Fast,Round,1,0,No,No,No,No,No,,,,Middle,Full,Off Drive,Mid Off,Mid Off,,Yes,No,No,130
+1,17,4,Nic Maddinson,David Warner,Jack Edwards,Right Medium Fast,Round,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Square drive,Deep Point,Keeper,Beaten,No,No,Yes,113.5
+1,17,5,Nic Maddinson,David Warner,Jack Edwards,Right Medium Fast,Round,6,0,No,No,No,No,No,,,,Middle,Full,Lofted Flick,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,110.1
+1,17,6,Nic Maddinson,David Warner,Jack Edwards,Right Medium Fast,Round,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Square drive,Deep Point,Keeper,Beaten,No,No,Yes,110
+1,18,1,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,FT,Cover Drive,Sweeper Cover,Sweeper Cover,,Yes,No,No,
+1,18,2,Nic Maddinson,David Warner,Sean Abbott,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Square Cut,Deep Forward Point,Deep Forward Point,,Yes,No,No,115
+1,18,3,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Leg,Yorker,Flick,Deep Fine Leg,Keeper,Beaten,No,No,Yes,
+1,18,4,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Outside Leg,Full,Lofted Drive,Straight Hit,Straight Hit,,Yes,No,No,
+1,18,5,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Off,Yorker,Leave,Keeper,Keeper,Wide,No,No,No,132.6
+1,18,5,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Outside Leg,Full,Lofted Flick,Deep Mid Wicket,Mid Wicket,Mistimed,No,No,No,121.1
+1,18,6,David Warner,Nic Maddinson,Sean Abbott,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Outside Leg,Full,Slog,Deep Forward Point,Deep Forward Point,,Yes,No,No,133.9
+1,19,1,Nic Maddinson,David Warner,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,Yes,Caught,Long On,Steve Smith,Middle,Good Length,Slog,Deep Mid Wicket,Long On,Mistimed,No,No,No,109.1
+1,19,2,Chris Green ,David Warner,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,Yes,Caught and Bowled,Short Mid On,Sam Curran,Leg,Good Length,Slog,Deep Mid Wicket,Short Mid On,Mistimed,No,No,No, 
+1,19,3,Daniel Sams,David Warner,Sam Curran,Left Medium Fast,Over,4,0,No,No,No,No,No,,,,Off,Full,Lofted Drive,Long Off,Long Off,,Yes,No,No,77.1
+1,19,4,Daniel Sams,David Warner,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Leg,Bouncer,Duck Under,Keeper,Short Leg,Hit on Body,No,No,Yes,128.3
+1,19,5,Daniel Sams,David Warner,Sam Curran,Left Medium Fast,Over,6,0,No,No,No,No,No,,,,Middle,Good Length,Slog,Straight Hit,Straight Hit,,Yes,No,No,133
+1,19,6,Daniel Sams,David Warner,Sam Curran,Left Medium Fast,Over,0,0,No,No,No,No,Yes,Caught,Deep Forward Square Leg,Babar Azam,Leg,Bouncer,Pull Shot,Deep Square Leg,Deep Backward Square Leg,Mistimed,No,No,No,
+2,0,1,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,4,0,No,No,No,No,No,,,,Outside Off,Short of length,Square drive,Sweeper Cover,Sweeper Cover,,Yes,No,No,
+2,0,2,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Outside Off,Short of length,Forward Defence,Short Cover,Short Cover,,Yes,No,No,91.6
+2,0,3,Steve Smith,Babar Azam,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Outside Off,Short of length,Flick,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,102.7
+2,0,4,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Cover Drive,Cover,Third Man,Outside Edge,No,Yes,No,92.8
+2,0,5,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Middle,Good Length,Flick,Square Leg,Third Man,Outside Edge,No,Yes,No,99.8
+2,0,6,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Forward Defence,Long On,Long On,,Yes,No,No,104.5
+2,1,1,Babar Azam,Steve Smith,Ryan Hadley,Right Fast,Over,2,0,No,No,No,No,No,,,,Outside Off,Short of length,Square Cut,Backward Point,Deep Third Man,Outside Edge,No,Yes,No,129
+2,1,2,Babar Azam,Steve Smith,Ryan Hadley,Right Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Square Cut,Backward Point,Backward Point,,Yes,No,No,140.9
+2,1,3,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,1,0,No,No,No,No,No,,,,Off,Good Length,Back Foot Defence,Short Mid off,Short Mid off,,Yes,No,No,142.3
+2,1,4,Babar Azam,Steve Smith,Ryan Hadley,Right Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Back Foot Defence,Point,Point,,Yes,No,No,140.1
+2,1,5,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,1,0,No,No,No,No,No,,,,Middle,Short of length,Pull Shot,Deep Square Leg,Forward Square Leg,Mistimed,No,No,No,121.5
+2,1,6,Babar Azam,Steve Smith,Ryan Hadley,Right Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,Good Length,Square drive,Sweeper Cover,Sweeper Cover,,Yes,No,No,141.6
+2,2,1,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Off,Bouncer,Step out ,Deep Square Leg,Keeper,Beaten,No,No,Yes,135.2
+2,2,2,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Middle,Short of length,Pull Shot,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,130.1
+2,2,3,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Outside Leg,Short of length,Square Cut,Deep Backward Point,Deep Backward Point,,Yes,No,No,138.4
+2,2,4,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Off,Good Length,Forward Defence,Bowler,Third Man,Outside Edge,No,Yes,No,133.5
+2,2,5,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,3,0,No,No,No,No,No,,,,Middle,Full,Flick,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,134.7
+2,2,6,Babar Azam,Steve Smith,Wes Agar,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Short of length,Back Foot Defence,Extra Cover,Keeper,Beaten,No,No,Yes,122.2
+2,3,1,Steve Smith,Babar Azam,Nathan McAndrew,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Middle,Short of length,Slog,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,132.6
+2,3,2,Steve Smith,Babar Azam,Nathan McAndrew,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Off,Good Length,Slog,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,127
+2,3,3,Steve Smith,Babar Azam,Nathan McAndrew,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Outside Off,Good Length,Slog,Deep Square Leg,Deep Square Leg,,Yes,No,No,131.1
+2,3,4,Steve Smith,Babar Azam,Nathan McAndrew,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Off,Full,Step out ,Sweeper Cover,Bowler,Mistimed,No,No,No,142.7
+2,3,5,Steve Smith,Babar Azam,Nathan McAndrew,Right Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Middle,Bouncer,Leave,Keeper,Keeper,,No,No,No,
+2,3,5,Steve Smith,Babar Azam,Nathan McAndrew,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Off,FT,On Drive,Mid On,Mid On,,Yes,No,No,
+2,3,6,Babar Azam,Steve Smith,Nathan McAndrew,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,Good Length,Cover Drive,Deep Cover,Deep Cover,,Yes,No,No,133.1
+2,4,1,Steve Smith,Babar Azam,Aidan O'Connor,Right Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Leg,Good Length,Leave,Keeper,Keeper,,No,No,No,124.4
+2,4,1,Steve Smith,Babar Azam,Aidan O'Connor,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Middle,Short of length,Flick,Deep Forward Square Leg,Deep Forward Square Leg,,Yes,No,No,120.1
+2,4,2,Babar Azam,Steve Smith,Aidan O'Connor,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Middle,Good Length,Forward Defence,Silly Point,Silly Point,,Yes,No,No,125.7
+2,4,3,Babar Azam,Steve Smith,Aidan O'Connor,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Leg,Full,Flick,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,132
+2,4,4,Babar Azam,Steve Smith,Aidan O'Connor,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Leg,Short of length,Pull Shot,Deep Square Leg,Gully,Hit on Body,No,No,Yes,126.5
+2,4,5,Babar Azam,Steve Smith,Aidan O'Connor,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Leg,Short of length,Flick,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,
+2,4,6,Steve Smith,Babar Azam,Aidan O'Connor,Right Medium Fast,Over,2,0,No,No,No,No,No,,,,Outside Off,Good Length,Cover Drive,Sweeper Cover,Sweeper Cover,,Yes,No,No,122.6
+2,5,1,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Full,Flick,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,87.7
+2,5,2,Steve Smith,Babar Azam,Tanveer Sangha,Right Leg,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Square Cut,Backward Point,Keeper,Beaten,No,No,Yes,90
+2,5,3,Steve Smith,Babar Azam,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Full,Step out ,Mid Wicket,Long On,Mistimed,No,No,No,85.7
+2,5,4,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Short of length,Flick,Mid Wicket,Mid Wicket,,Yes,No,No,94.1
+2,5,5,Steve Smith,Babar Azam,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Good Length,Back Foot Defence,Long On,Long On,,Yes,No,No,88.6
+2,5,6,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Full,Leg Glance,Forward Square Leg,Forward Square Leg,,Yes,No,No,
+2,6,1,Babar Azam,Steve Smith,Chris Green ,Right Off,Round,4,0,No,No,No,No,No,,,,Outside Off,Good Length,Square Cut,Deep Backward Point,Deep Backward Point,,Yes,No,No,100.3
+2,6,2,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Off,Full,Flick,Forward Square Leg,Forward Square Leg,,Yes,No,No,89.7
+2,6,3,Steve Smith,Babar Azam,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Middle,Full,On Drive,Long On,Long On,,Yes,No,No,103.6
+2,6,4,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Middle,Good Length,Forward Defence,Short Leg,Short Leg,,Yes,No,No,84.4
+2,6,5,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Outside Leg,Good Length,Back Foot Defence,Short Mid Wicket,Short Mid Wicket,,Yes,No,No,92.1
+2,6,6,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,1,No,No,Yes,No,No,,,,Outside Leg,Good Length,Leg Glance,Fine Leg,Leg Gully,Hit on Body,No,No,Yes,93.7
+2,7,1,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Square drive,Sweeper Cover,Sweeper Cover,,Yes,No,No,90.9
+2,7,2,Steve Smith,Babar Azam,Tanveer Sangha,Right Leg,Over,4,0,No,No,No,No,No,,,,Off,Full,Slog Sweep,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,88
+2,7,3,Steve Smith,Babar Azam,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Off,Good Length,Step out ,Long On,Long On,,Yes,No,No,
+2,7,4,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,2,,No,No,No,No,No,,,,Middle,Short of length,On Drive,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,96.9
+2,7,5,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Full,Flick,Mid Wicket,Mid Wicket,,Yes,No,No,90.9
+2,7,6,Steve Smith,Babar Azam,Tanveer Sangha,Right Leg,Over,2,0,No,No,No,No,No,,,,Middle,Short of length,On Drive,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,
+2,8,1,Babar Azam,Steve Smith,Wes Agar,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Leg,Good Length,Flick,Deep Square Leg,Deep Square Leg,,Yes,No,No, 
+2,8,2,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Outside Off,Full,Lofted Drive,Sweeper Cover,Sweeper Cover,,Yes,No,No,132.9
+2,8,3,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Square drive,Cover Point,Cover Point,,Yes,No,No,107.8
+2,8,4,Babar Azam,Steve Smith,Wes Agar,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Full,Square drive,Cover,Extra Cover,Mistimed,No,No,No,
+2,8,5,Babar Azam,Steve Smith,Wes Agar,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Leg,Short of length,Square Cut,Deep Forward Point,Deep Forward Point,,Yes,No,No,131.9
+2,8,6,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Leg,Good Length,Leave,Keeper,Keeper,,No,No,No,
+2,8,6,Steve Smith,Babar Azam,Wes Agar,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Off,Short of length,Square Cut,Deep Backward Point,Deep Backward Point,,Yes,No,No,121.6
+2,9,1,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,0,0,No,No,No,No,No,,,,Outside Leg,Good Length,Square Cut,Extra Cover,Extra Cover,,Yes,No,No,90.6
+2,9,2,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,4,0,No,No,No,No,No,,,,Outside Leg,Full,Sweep,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,84.6
+2,9,3,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,4,0,No,No,No,No,No,,,,Outside Leg,Short of length,Pull Shot,Deep Fine Leg,Deep Fine Leg,,Yes,No,No,
+2,9,4,Babar Azam,Steve Smith,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Good Length,Forward Defence,Short Mid Wicket,Short Mid Wicket,,Yes,No,No,87.8
+2,9,5,Steve Smith,Babar Azam,Tanveer Sangha,Right Leg,Over,2,0,No,No,No,No,No,,,,Outside Off,Good Length,Square Cut,Sweeper Cover,Sweeper Cover,,Yes,No,No,87.5
+2,9,6,Steve Smith,Babar Azam,Tanveer Sangha,Right Leg,Over,0,0,No,No,No,No,No,,,,Middle,Good Length,Back Foot Defence,Bowler,Bowler,,Yes,No,No,89.5
+2,10,1,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Middle,Good Length,Flick,Backward Square Leg,Backward Square Leg,,Yes,No,No,91
+2,10,2,Steve Smith,Babar Azam,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Off,Short of length,Flick,Deep Square Leg,Deep Square Leg,,Yes,No,No,96.3
+2,10,3,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Off,Full,Forward Defence,Bowler,Bowler,,Yes,No,No,93.5
+2,10,4,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Middle,Good Length,Flick,Short Mid Wicket,Short Mid Wicket,,Yes,No,No,93.8
+2,10,5,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Middle,Good Length,Forward Defence,Silly Point,Silly Point,,Yes,No,No,
+2,10,6,Babar Azam,Steve Smith,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Leg,Full,On Drive,Long On,Long On,,Yes,No,No,94.5
+2,11,1,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,6,0,No,No,No,No,No,,,,Middle,Good Length,Lofted Flick,Deep Square Leg,Deep Square Leg,,Yes,No,No,136.1
+2,11,2,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,6,0,No,No,No,No,No,,,,Outside Off,Good Length,Lofted Drive,Straight Hit,Straight Hit,,Yes,No,No,135.9
+2,11,3,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,6,0,No,No,No,No,No,,,,Leg,FT,Lofted Flick,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,139.1
+2,11,4,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,6,0,No,No,No,No,No,,,,Outside Off,Good Length,Lofted Flick,Deep Square Leg,Deep Square Leg,,Yes,No,No, 
+2,11,5,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,4,1,No,Yes,No,No,No,,,,Outside Off,Short of length,Late Cut,Deep Third Man,Deep Third Man,,Yes,No,No,118.2
+2,11,5,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,0,1,Yes,No,No,No,No,,,,Outside Leg,Yorker,Leave,Keeper,Keeper,,No,No,No,
+2,11,5,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Slog,Deep Mid Wicket,Mid On,Mistimed,No,No,No,113.6
+2,11,6,Steve Smith,Babar Azam,Ryan Hadley,Right Fast,Over,2,0,No,No,No,No,No,,,,Outside Off,Good Length,Square drive,Deep Forward Point,Deep Forward Point,,Yes,No,No,109.6
+2,12,1,Babar Azam,Steve Smith,Nathan McAndrew,Right Medium Fast,Over,0,0,No,No,No,No,Yes,Bowled,,,Outside Off,Short of length,Off Drive,Cover,,Inside Edge,No,Yes,No,127
+2,12,2,Josh Phillipe,Steve Smith,Nathan McAndrew,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Outside Off,Short of length,Flick,Deep Backward Point,Deep Backward Square Leg,,Yes,No,No,126
+2,12,3,Steve Smith,Josh Phillipe,Nathan McAndrew,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Off,Short of length,Pull Shot,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,
+2,12,4,Steve Smith,Josh Phillipe,Nathan McAndrew,Right Medium Fast,Over,4,0,No,No,No,No,No,,,,Outside Off,Short of length,Late Cut,Deep Third Man,Deep Third Man,,Yes,No,No,
+2,12,5,Steve Smith,Josh Phillipe,Nathan McAndrew,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Leg,FT,Flick,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,133.2
+2,12,6,Josh Phillipe,Steve Smith,Nathan McAndrew,Right Medium Fast,Over,0,0,No,No,No,No,Yes,Caught,Deep Fine Leg,Tanveer Sangha,Outside Off,Bouncer,Pull Shot,Deep Square Leg,Deep Fine Leg,Outside Edge,No,Yes,No,125.6
+2,13,1,Steve Smith,Moises Henriques,Tanveer Sangha,Right Leg,Over,0,0,No,No,No,No,No,,,,Middle,Good Length,Forward Defence,Bowler,Bowler,,Yes,No,No,89.1
+2,13,2,Steve Smith,Moises Henriques,Tanveer Sangha,Right Leg,Over,0,0,No,No,No,No,No,,,,Off,Good Length,Forward Defence,Extra Cover,Extra Cover,,Yes,No,No,86.8
+2,13,3,Steve Smith,Moises Henriques,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Good Length,On Drive,Mid On,Long On,,Yes,No,No,
+2,13,4,Moises Henriques,Steve Smith,Tanveer Sangha,Right Leg,Over,4,0,No,No,No,No,No,,,,Outside Off,Short of length,Pull Shot,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,98.3
+2,13,5,Moises Henriques,Steve Smith,Tanveer Sangha,Right Leg,Over,1,0,No,No,No,No,No,,,,Middle,Full,Cover Drive,Deep Cover,Deep Cover,,Yes,No,No,91.9
+2,13,6,Steve Smith,Moises Henriques,Tanveer Sangha,Right Leg,Over,0,0,No,No,No,No,Yes,Stumped,,Sam Billings,Outside Off,Short of length,Lofted Drive,Deep Cover,Keeper,Beaten,No,No,Yes,
+2,14,1,Moises Henriques,Sam Curran,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Outside Off,Full,Off Drive,Long Off,Long Off,,Yes,No,No,105.4
+2,14,2,Sam Curran,Moises Henriques,Chris Green ,Right Off,Round,1,0,No,No,No,No,No,,,,Off,Full,Off Drive,Long Off,Long Off,,Yes,No,No,
+2,14,3,Moises Henriques,Sam Curran,Chris Green ,Right Off,Over,0,0,No,No,No,No,Yes,LBW,,,Middle,Full,Sweep,Deep Square Leg,,Beaten,No,No,Yes,105.5
+2,14,4,Lachlan Shaw,Sam Curran,Chris Green ,Right Off,Over,0,0,No,No,No,No,No,,,,Off,Full,Forward Defence,Bowler,Bowler,,Yes,No,No,105.4
+2,14,5,Lachlan Shaw,Sam Curran,Chris Green ,Right Off,Over,1,0,No,No,No,No,No,,,,Off,Full,Square drive,Deep Forward Point,Deep Forward Point,,Yes,No,No,102.8
+2,14,6,Sam Curran,Lachlan Shaw,Chris Green ,Right Off,Round,0,0,No,No,No,No,No,,,,Outside Off,Short of length,Square Cut,Point,Point,,Yes,No,No,
+2,15,1,Lachlan Shaw,Sam Curran,Aidan O'Connor,Right Medium Fast,Over,6,0,No,No,No,No,No,,,,Outside Leg,Short of length,Pull Shot,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,135.3
+2,15,2,Lachlan Shaw,Sam Curran,Aidan O'Connor,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Square Cut,Backward Point,Backward Point,,Yes,No,No,128.6
+2,15,3,Lachlan Shaw,Sam Curran,Aidan O'Connor,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Middle,Good Length,Flick,Mid Wicket,Mid Wicket,,Yes,No,No,126.6
+2,15,4,Sam Curran,Lachlan Shaw,Aidan O'Connor,Right Medium Fast,Over,0,0,No,No,No,No,Yes,Caught,Mid Off,Nic Maddinson,Outside Off,Bouncer,Pull Shot,Deep Square Leg,Mid Off,Outside Edge,No,Yes,No,135
+2,15,5,Jack Edwards,Lachlan Shaw,Aidan O'Connor,Right Medium Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Good Length,Lofted Drive,Extra Cover,Keeper,Beaten,No,No,Yes,133.2
+2,15,6,Jack Edwards,Lachlan Shaw,Aidan O'Connor,Right Medium Fast,Over,1,0,No,No,No,No,No,,,,Off,Full,Cover Drive,Cover,Cover,,Yes,No,No,132
+2,16,1,Jack Edwards,Lachlan Shaw,Nic Maddinson,Left Off,Round,2,0,No,No,No,No,No,,,,Leg,Full,Slog,Straight Hit,Straight Hit,,Yes,No,No,94.6
+2,16,2,Jack Edwards,Lachlan Shaw,Nic Maddinson,Left Off,Round,1,0,No,No,No,No,No,,,,Off,Good Length,Forward Defence,Cover,Cover,,Yes,No,No,86.4
+2,16,3,Lachlan Shaw,Jack Edwards,Nic Maddinson,Left Off,Round,1,0,No,No,No,No,No,,,,Outside Off,Good Length,Back Foot Defence,Deep Forward Point,Deep Forward Point,,Yes,No,No,92.5
+2,16,4,Jack Edwards,Lachlan Shaw,Nic Maddinson,Left Off,Round,6,0,No,No,No,No,No,,,,Off,Good Length,Slog,Deep Mid Wicket,Deep Mid Wicket,,Yes,No,No,86.6
+2,16,5,Jack Edwards,Lachlan Shaw,Nic Maddinson,Left Off,Round,1,0,No,No,No,No,No,,,,Off,Good Length,Back Foot Defence,Long Off,Long Off,,Yes,No,No,96.5
+2,16,6,Lachlan Shaw,Jack Edwards,Nic Maddinson,Left Off,Round,4,0,No,No,No,No,No,,,,Outside Leg,Good Length,Pull Shot,Deep Backward Square Leg,Deep Backward Square Leg,,Yes,No,No,82
+2,17,1,Jack Edwards,Lachlan Shaw,Ryan Hadley,Right Fast,Over,0,0,No,No,No,No,No,,,,Outside Off,Bouncer,Pull Shot,Square Leg,Keeper,Beaten,No,No,Yes,119.9
+2,17,2,Jack Edwards,Lachlan Shaw,Ryan Hadley,Right Fast,Over,6,0,No,No,No,No,No,,,,Outside Off,Good Length,Slog,Deep Square Leg,Deep Square Leg,,Yes,No,No,113.2
