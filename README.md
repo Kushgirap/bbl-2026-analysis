@@ -6,6 +6,7 @@ A delivery-level post-match analysis of the BBL 2026 Final, built from manually 
 ---
 
 ## Project Structure
+'''
 bbl-2026-analysis/
 ├── data/
 │   └── bbl_2026_final_coded.csv        # Ball-by-ball match data (239 deliveries, 28 variables)
@@ -14,7 +15,7 @@ bbl-2026-analysis/
 ├── wagon_wheel.py                      # Wagon wheel generator (Smith vs pace, Smith vs Sangha, Babar)
 ├── BBL_2026_Final_Report_v3.pdf        # Post-match report
 └── README.md
-
+'''
 ---
 
 ## Data Collection
